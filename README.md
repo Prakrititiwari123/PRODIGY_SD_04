@@ -3,14 +3,6 @@
 A fast and efficient Sudoku Solver that can automatically complete any valid 9x9 Sudoku puzzle using the **Backtracking Algorithm**.  
 This project is ideal for practicing **recursion**, **algorithm optimization**, and **problem-solving skills**.
 ---
-## 📋 Table of Contents
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Screenshots](#-screenshots)
-- [How to Run](#-how-to-run)
-- [Future Improvements](#-future-improvements)
-- [Contact](#-contact)
----
 ## 🚀 Features
 - ✅ Automatically solves any valid 9x9 Sudoku board
 - ✅ Uses efficient backtracking for fast solutions
